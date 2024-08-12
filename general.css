@@ -23,13 +23,13 @@ body {
 .marathi-text {
     font-family: 'Noto Sans Devanagari';
     font-size: 18px;
-    font-weight: 100;
+    font-weight: 300;
 }
 
 .english-text {
     font-family: 'Roboto';
-    font-size: 16px;
-    font-weight: 200;
+    font-size: 18px;
+    font-weight: 300;
 }
 
 .contact p {
