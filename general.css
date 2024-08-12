@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+}
+
+.youtube-container {
+    text-align: center;
+    padding: 20px 0px 0px 0px;
+}
+
+.youtube-frame {
+    width: 400px;
+    height: 400px;
+}
+
+.marathi-text {
+    font-family: 'Noto Sans Devanagari';
+
+}
+
+.english-text {
+    font-family: 'Calibri';
+}
