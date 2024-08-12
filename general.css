@@ -1,5 +1,6 @@
 body {
     background-color: black;
+    margin: 0px;
 }
 
 .youtube-container {
@@ -26,4 +27,17 @@ body {
 .contact p {
     margin-top: 6px;
     margin-bottom: 6px;
+}
+
+.heading {
+    font-family: "Lexend Giga";
+}
+
+.bg {
+    background-color: #A0A0A0;
+    font-family: Calibri;
+    padding-top: 32px;
+    padding-bottom: 32px;
+    /* padding: 0px; */
+    margin: 0px;
 }
