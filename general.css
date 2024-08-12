@@ -20,3 +20,8 @@ body {
 .english-text {
     font-family: 'Calibri';
 }
+
+.contact p {
+    margin-top: 6px;
+    margin-bottom: 6px;
+}
