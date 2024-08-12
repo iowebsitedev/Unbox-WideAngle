@@ -3,6 +3,13 @@ body {
     margin: 0px;
 }
 
+.description {
+    /* align-items: center; */
+    /* text-align: center; */
+    margin: auto;
+    max-width: 500px;
+}
+
 .youtube-container {
     text-align: center;
     padding: 20px 0px 0px 0px;
@@ -16,12 +23,13 @@ body {
 .marathi-text {
     font-family: 'Noto Sans Devanagari';
     font-size: 18px;
-
+    font-weight: 100;
 }
 
 .english-text {
-    font-family: 'Calibri';
-    font-size: 18px;
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-weight: 200;
 }
 
 .contact p {
@@ -30,12 +38,11 @@ body {
 }
 
 .heading {
-    font-family: "Lexend Giga";
+    font-family: "Hubballi";
 }
 
 .bg {
-    background-color: #A0A0A0;
-    font-family: Calibri;
+    /* background-color: #A0A0A0; */
     padding-top: 32px;
     padding-bottom: 32px;
     /* padding: 0px; */
