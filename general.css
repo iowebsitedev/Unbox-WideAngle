@@ -8,15 +8,16 @@ body {
 }
 
 .youtube-frame {
-    width: 400px;
-    height: 400px;
+    aspect-ratio: 16/9;
 }
 
 .marathi-text {
     font-family: 'Noto Sans Devanagari';
+    font-size: 18px;
 
 }
 
 .english-text {
     font-family: 'Calibri';
+    font-size: 18px;
 }
