@@ -24,9 +24,22 @@ body {
     font-family: 'Noto Sans Devanagari';
     font-size: 18px;
     font-weight: 300;
+    border-style: double;
+    padding: 5px;
+    text-align: center;
+    margin-top: 10px;
 }
 
 .english-text {
+    font-family: 'Roboto';
+    font-size: 18px;
+    font-weight: 300;
+    border-style: double;
+    padding: 5px;
+    text-align: center;
+}
+
+.contact {
     font-family: 'Roboto';
     font-size: 18px;
     font-weight: 300;
